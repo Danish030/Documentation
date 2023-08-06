@@ -1,5 +1,7 @@
-# (Friday, August 04, 2023)
-## issue Tasks
-1 Fixed Add button &  forest name field in Cluster Tag tree on staging page
-  (solved this issue by putting div on center for center alignment on both web and mobile view & added button on end div id=submit to put button on center and added some padding on both left and righyt side)
-1 Finding Bug on Flocard App and listing them on google sheets and to share with Kailash Sir  
+# (Monday, August 07, 2023)
+
+1. Flocard home page _ profile edit button Alignment, profile logo issues 
+2. Flocard home page - On Exchange contact options cancel button and camera capture screen is collapsed with each other (no gap between both elements)
+3. Flocard home page and planters app - This search icon is present in almost every page of flocard app and planter app, this search icon doesn't  activate and and show any usecase in page (Only in mobile view -issue)
+4. 
+
