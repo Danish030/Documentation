@@ -5,5 +5,5 @@
 2. Flocard home page - On Exchange contact options cancel button and camera capture screen is collapsed with each other and make apperaences of cancel as default theme and otp link color change issue
   - solved button collapse with css margin property, changed cancel cancelled button as default cancel button according to theme used in app and changed here link color to work both inn dark and light mode
 4. Flocard home page and planters app - This search icon is present in almost every page of flocard app and planter app, this search icon doesn't  activate and and show any usecase in page (Only in mobile view -issue)
-- To solve this issue we have to delete (class="nav-item d-md-none") from the pages to acces or display none can also work
+- To solve this issue we have to delete (class="nav-item d-md-none") from the pages to acces or display none can also works Fine.
    
