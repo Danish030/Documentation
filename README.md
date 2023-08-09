@@ -1,3 +1,11 @@
+# (Wednesday, August 09, 2023)
+1. Task assigned by kailash sir to find bugs  and fixes on community pages of flocard card to kailash sir
+2. list All the bugs, Fixes and minor details in excel sheet and share wih kaislas sir
+3. After fiding these fixes and issue try to solve those.
+
+
+
+
 # (Monday, August 07, 2023)
 
 1. Flocard home page _ profile edit button Alignment, profile logo size issues
