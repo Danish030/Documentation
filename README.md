@@ -1,3 +1,11 @@
+# (Thursday, August 10, 2023)
+1. learn about Responsive web design and make responsive buttons on Flocard app community pages
+2. Add header in community pages
+3. Improve Font styles in some community pages 
+
+
+
+
 # (Wednesday, August 09, 2023)
 1. Task assigned by kailash sir to find bugs  and fixes on community pages of flocard card to kailash sir
 2. list All the bugs, Fixes and minor details in excel sheet and share wih kaislas sir
