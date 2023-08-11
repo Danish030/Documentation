@@ -3,8 +3,9 @@
 - today's aim to make Registration for event element responsive  page link- https://flocard.app/FC/EventDetails?eventid=65edfaa4-6ace-4f6a-9123-a9c5e883761b
 - wizard text color issue on hovering the colour of wizard background color or text color became the same and makes the text invisibile-
 ## Solved
-- using media queries Solved this issue
-- splved this issue with css hover property
+- using media queries Solved this issue - link for the solution  https://github.com/Danish030/fix/blob/main/fix4.html
+- in case if we want to add button other than text here is the link for that Registration button  - link for the solution https://github.com/Danish030/fix/blob/main/fix3.html
+- solved this issue with css hover property  - solution link- https://github.com/Danish030/fix/blob/main/wizardarrow.html
    
    
   
