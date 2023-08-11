@@ -1,3 +1,9 @@
+# (Friday, August 11, 2023)
+1. today's aim to make Registration for event element responsive  page link- https://flocard.app/FC/EventDetails?eventid=65edfaa4-6ace-4f6a-9123-a9c5e883761b
+  
+
+
+
 # (Thursday, August 10, 2023)
 1. learn about Responsive web design and make responsive buttons on Flocard app community pages
 2. Add header in community pages
