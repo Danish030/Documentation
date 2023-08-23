@@ -24,5 +24,5 @@
    2. Solved this issue using changing color of buttons and margin using bootsrap properties of margin bottom and top and alos used little bit of css
    3. Compiled All the solution in Fix6.html file with proper documentation in document
 #### Code Link for solved issues 
-   https://github.com/Danish030/fix/blob/main/fix6.html
+https://github.com/Danish030/fix/blob/main/New%20fixes%2023-08-23.html
 
