@@ -12,5 +12,5 @@
  -  learned about some basic Testing tecghniques  from https://www.geeksforgeeks.org/software-testing-basics/ this website
 
 ## Wednesday 23 August, 2023
--- First aim to go through daily testing of web app and android app have to solve the the ui issues mentioned excel sheet
--- -- Study more About Testing Techniques from from https://www.geeksforgeeks.org/software-testing-basics/ this website
+- First aim to go through daily testing of web app and android app have to solve the the ui issues mentioned excel sheet
+- Study more About Testing Techniques from from https://www.geeksforgeeks.org/software-testing-basics/ this website
