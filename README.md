@@ -37,6 +37,8 @@ https://github.com/Danish030/fix/blob/main/New%20fixes%2023-08-23.html
 ### Task
 1 Mr. Manoj assigned me a ui bug to fix in flip messages
 -  the issue is to show the sent message which is hidden under the image and resize image
+2 Mr. Manoj assigned me a ui bug in the page https://flocard.app/planters/User/PlanterManagement 
+-  the issue is to  change the no data show picture
  ### Progress
 - The issue is solved using these css properties mentioned below
   - In the message Div, i used margin-top:-2em; to text show in card below the image
@@ -47,7 +49,11 @@ https://github.com/Danish030/fix/blob/main/New%20fixes%2023-08-23.html
      height :230px; width:230px; border-radius:5px;
     </style>
 </dl>
- 
+
+- 2nd issue solved just simply using no data show picture from other page of planters app(just copied)
+ <dl>
+  <img class="mb-3" src="/planters/assets/svg/illustrations/sorry.svg" alt="Image Description" style="width: 7rem;background:white;border-radius:20%; ">
+ </dl>
 
    
 
