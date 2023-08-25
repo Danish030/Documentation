@@ -26,3 +26,28 @@
 #### Code Link for solved issues 
 https://github.com/Danish030/fix/blob/main/New%20fixes%2023-08-23.html
 
+## Thursday 23 August, 2023
+### Task
+- Fix a bug on notification alert of contacts After Editing your profile - The issue is Select all contact deoesn't work if you have one checked a individuial contact, in this scenario select all option show checked on and in also code also it is checked but individual contacts deosn't
+### Progress
+ - Understand the working of code with #chkAll attribute select all Checkbox working fine but in the individiual checkbox1, checkbox doesn't have any code
+ - i have to resolve this issue with proper js code later on i will upadate the approach i used here
+
+## Friday 23 August, 2023
+### Task
+1 Mr. Manoj assigned me a ui bug to fix in flip messages
+-  the issue is to show the sent message which is hidden under the image and resize image
+ ### Progress
+- The issue is solved using these css properties mentioned below
+  - In the message Div, i used margin-top:-2em; to text show in card below the image
+  - image issue solved using setting height and width and border radius here is the css code
+  
+     <dl>
+ <style>
+     height :230px; width:230px; border-radius:5px;
+    </style>
+</dl>
+ 
+
+   
+
