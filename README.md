@@ -14,5 +14,8 @@
  #### progress
  - Written test cases for flocard.app Landing page
  - Tested the whole elements of Flocard.app landing pages link of excel sheet: https://docs.google.com/spreadsheets/d/13omo794ifovzZqzetA7aDJ48Ho5q0jFxlp3ig1HePp4/edit#gid=2017835397
+
+ #### Learning 
+ - Attened Microsoft azure Fundemental class and learn the basics of microsoft Azure
    
    
