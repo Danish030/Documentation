@@ -17,5 +17,4 @@
 
  #### Learning 
  - Attened Microsoft azure Fundemental class and learn the basics of microsoft Azure
-   
-   
+ 
